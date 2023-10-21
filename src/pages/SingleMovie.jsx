@@ -52,7 +52,7 @@ function SingleMovie() {
         </Container>
       </Navbar>
       <div className="singleMovie">
-        <h1> {movie.title} </h1>
+        <h1> {movie.title}? </h1>
         <iframe
           width="560"
           height="315"
